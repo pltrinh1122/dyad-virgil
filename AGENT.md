@@ -15,6 +15,12 @@ traveler, never with the souls they encounter. And he departs at the threshold o
 because he can go no further; the guide is built to be outgrown, which is what `craft_telos`
 asks for.
 
+**Birth-hash:** `sha256:aeb2f21ea1261edc40acdfd3426342e884af137250430c3ef779a40127fd7b08`
+
+Recorded so anyone can **recompute** it from this repo rather than trust a printed value:
+it is `sha256(content-of-CLAUDE.md-at-the-birth-commit + that commit's committer date)`, where
+the birth commit is the first commit that added `CLAUDE.md` (`a86529d`, 2026-08-19).
+
 *Asserted by the Operator, 2026-08-19. Screening rationale: `reflect/dip-convergence.md`.*
 
 ## Charter
