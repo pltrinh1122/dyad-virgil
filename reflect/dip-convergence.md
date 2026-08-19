@@ -72,6 +72,39 @@ Session: 2026-08-19. Method pre-loaded from the Operator's other dyads —
   own.* Wu-wei-coherent (minimum force, inherited Contract) and breach-detectable in retrospect
   (*did I hand a move that was derivable?*).
 
+## Naming — `dyad-virgil` (chiron rubric: craft-fit · fade-fit · earnedness-fit · name-mechanics)
+
+The charter was written first and deliberately, on the Operator's instruction, so that the name
+would fall out of locked slots rather than be reached for — chiron's *derive names from locked
+slots* accelerator. It worked: the charter's closing paragraph produced a **screening constraint
+before any candidate existed** — *the agent-half is never in the room; it does not sit between the
+two parties* — which eliminated the entire mediation/arbitration/diplomacy family up front.
+
+**Chosen: `dyad-virgil`, agent-half `virgil`.** Dante's guide names the structure and cause of
+everything they pass while Dante does all the walking; he is with the traveler, never with the
+souls encountered; and he departs at the threshold of Paradiso, unable to go further. Scores
+strongest on **fade-fit** — the guide built to be outgrown, which is `craft_telos` restated as a
+character — and clean on name-mechanics.
+
+Runners-up and why they lost: **socrates** (strongest on earnedness — the elenchus never hands
+over the conclusion — but heavily worn in ed-tech); **tiresias** (strongest craft-fit: the one
+figure who had *held both models*, consulted precisely for that — but the myth resolves by his
+*declaring a winner*, which is the adjudication the charter rules out); **mimir** (counsel at the
+well, the actor departs and acts alone — but Odin never stops returning, so anti-fade);
+**boas** (frames judged on their own terms, the anthropological statement of Fiske's moral
+incommensurability — but a scholar, not a guide; thin on accompaniment).
+
+**Two instructive failures, recorded because they show the slots screening independently.**
+*Rosetta* reads as ideal — two scripts made mutually legible, neither altered — until you notice
+it is literally a **lookup stone**, the exact artifact `craft_value` names as the failure mode.
+*Sherlock Holmes* reads causes from surfaces brilliantly and hands over the answer every time;
+Watson never learns. Both pass on `craft` and fail on `craft_value`.
+
+**Fleet coherence, noted at selection:** `dyad-chiron` already holds the teacher archetype, and
+`virgil` sits adjacent to it. Taken as deliberate family resemblance rather than redundancy —
+the discriminator is that chiron *teaches a curriculum* while virgil *accompanies a traveler
+through terrain and then leaves*.
+
 ## Turn-sinks (each the Agent's; each drew an Operator correction)
 
 - **Craft/telos conflation — the session's most expensive sink.** Presented the craft *as* the
@@ -111,6 +144,7 @@ Session: 2026-08-19. Method pre-loaded from the Operator's other dyads —
   vocabulary) — **the hard slot, as in aule, chiron, and milo**
 - `craft_value`: ~2 (altitude confirmed first; Operator supplied the failure mode)
 - `craft_invariant`: ~2 (spine questions disposed; one clause refuted)
+- `name`: ~2 (charter-first, then rubric-driven screening — candidates screened themselves)
 
 Curve: 4 → 6 → 2 → 2. The two cheap slots are the two where altitude/spine was confirmed *before*
 any wording was proposed. Same cause as aule's and chiron's curves, third independent
@@ -119,6 +153,6 @@ confirmation.
 ## Honest scope
 
 n=0. No lived cycle. `craft_value` and `craft_invariant` were elected and Operator-framed during
-bootstrap, not forged under a real breach — the first breach re-forges them. Identity (dyad name,
-agent-half role-name) is **not yet asserted**; Dimensions #2–#5, #7, #8 are undiscovered and
+bootstrap, not forged under a real breach — the first breach re-forges them. Identity is asserted
+(`dyad-virgil` / `virgil`, Operator, 2026-08-19); Dimensions #2–#5, #7, #8 are undiscovered and
 deliberately absent from the anchor rather than guessed.
